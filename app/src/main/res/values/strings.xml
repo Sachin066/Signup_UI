@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SignUp Ui</string>
+    <string name="welcome_back">welcome_back</string>
+    <string name="login_to_continue">Login to continu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
